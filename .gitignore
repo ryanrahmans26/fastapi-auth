@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Editor config
+.vscode/
+.idea/
+
+# Python environment files
+.env
+
+# macOS / Linux
+.DS_Store
+Thumbs.db
